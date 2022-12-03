@@ -9,3 +9,6 @@ input.onButtonPressed(Button.AB, function () {
 input.onButtonPressed(Button.B, function () {
     servos.P2.run(50)
 })
+basic.forever(function () {
+	
+})
